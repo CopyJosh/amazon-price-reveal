@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Amazon Price Reveal",
+  "version": "0.1.1",
+  "description": "Show real list price, deal price & $ saved on Amazon listings",
+  "author": "Josh Tomaino",
+  "homepage_url": "https://www.linkedin.com/in/jotomaino",
+  "host_permissions": [
+    "*://*.amazon.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.amazon.com/*"
+      ],
+      "js": [
+        "content-script.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}
