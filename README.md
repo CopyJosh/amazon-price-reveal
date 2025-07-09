@@ -51,3 +51,9 @@ The extension creates a single floating tooltip that follows your mouse and only
 ## Author
 
 *   **Josh Tomaino** - [LinkedIn](https://www.linkedin.com/in/jotomaino)
+
+## Disclaimer
+
+This extension is not affiliated with, endorsed by, or sponsored by Amazon.com, Inc. or any of its subsidiaries. Amazon and all related trademarks are the property of Amazon.com, Inc.
+
+This software is provided for educational and personal use only. Users are responsible for complying with all applicable laws and terms of service. The developer assumes no responsibility for any consequences arising from the use of this software.
